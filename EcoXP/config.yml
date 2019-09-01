@@ -1,0 +1,23 @@
+eco-symbol: $
+xp-modifier: 1.5
+chat-prefix: '§7[§eEcoXP§7] §f'
+gui-title: 'Available Purchases:'
+shop:
+  0:
+    name: 'Example 1'
+    permission: 'essentials.help'
+    price: 50
+    icon:
+      material: 'FEATHER'
+      amount: 1
+      displayname: '&6Unlock /help'
+      lore: {}
+  1:
+    name: 'Example 2'
+    permission: 'essentials.motd'
+    price: 150
+    icon:
+      material: 'GOLD_INGOT'
+      amount: 1
+      displayname: '&aUnlock /motd'
+      lore: {}

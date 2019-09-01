@@ -1,0 +1,13 @@
+name: EcoXP
+version: 1.0
+main: com.fred.ecoxp.EcoXP
+api-version: 1.14
+depend: [Vault]
+description: Creates a permission based economy system based on Minecraft's Vanilla experience system.
+commands:
+  ecoxp:
+    description: EcoXP.
+  levels:
+    description: Add / subtract / set a players levels.
+  xpshop:
+    description: Opens the XP shop.
